@@ -1,0 +1,22 @@
+[
+    {
+        "titulo":"Programación Imperativa",
+        "estado":"Terminada",
+        "descripcion": "aprendiendo a programar con JS"
+    },
+    {
+        "titulo":"Base de Datos I",
+        "estado":"Pendiente",
+        "descripcion": "Utilizamos SQL y workbench MYSQL como motor"
+    },
+    {
+        "titulo":"Introducion a la informática",
+        "estado":"Repasar",
+        "descripcion": "Conociendo las herramientas"
+    },
+    {
+        "titulo":"Frontend I",
+        "estado":"Terminada",
+        "descripcion": "HTML, CSS, SASS"
+    }
+]
